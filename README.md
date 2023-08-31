@@ -1,2 +1,2 @@
-# DS_Prac
-Data Science practice notebook &lt;br/> This repository contains Jupyter notebooks and datasets for practicing data science concepts and techniques.
+# DATA SCIENCE PRACTICE NOTEBOOK
+This repository contains Jupyter notebooks and datasets for practicing data science concepts and techniques.
